@@ -1,5 +1,4 @@
 
-### $\textsf{\color{red}{💻 Offensive Security | Pentester | Ethical Hacker | Python }}$
 
 ### 🛠 Technical Skill & Languages & Tools:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
