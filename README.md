@@ -1,6 +1,6 @@
 <p style="display: flex;">
  <a href="https://tryhackme.com/p/vitorsiegergrafi">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Melquisedeque.png?6" alt="TryHackMe">
+    
  </a>
  <a href="https://tryhackme.com/p/Melquisedeque">
    <img src="https://tryhackme-badges.s3.amazonaws.com/vitorsiegergrafi.png" alt="Seu emblema de imagem" />
