@@ -2,7 +2,6 @@
  <a href="https://tryhackme.com/p/vitorsiegergrafi">
    <img src="https://tryhackme-badges.s3.amazonaws.com/vitorsiegergrafi.png" alt="Seu emblema de imagem" />
  </a>
-</p>
 
 ### 🛠 Technical Skill & Languages & Tools:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
