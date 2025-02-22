@@ -12,8 +12,10 @@
 
 
 ### ⚙️ GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorUsername_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorUsername&layout=compact
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorUsername&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorUsername&layout=compact&theme=transparent)
+
 
 
 $\textit{\color{cyan}{ "Louvem o Senhor todas as nações; louvem-no todos os povos. Pois grande é o seu amor por nós;}}$
