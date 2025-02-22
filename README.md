@@ -11,6 +11,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
+### ⚙️ GitHub Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorUsername_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorUsername&layout=compact
+
+
 $\textit{\color{cyan}{ "Louvem o Senhor todas as nações; louvem-no todos os povos. Pois grande é o seu amor por nós;}}$
 $\textit{\color{cyan}{a fidelidade do Senhor dura para sempre. Louvado seja o Senhor!"}}$
 
