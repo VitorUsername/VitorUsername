@@ -16,7 +16,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorUsername&layout=compact&theme=transparent)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 $\textit{\color{cyan}{ "Louvem o Senhor todas as nações; louvem-no todos os povos. Pois grande é o seu amor por nós;}}$
 $\textit{\color{cyan}{a fidelidade do Senhor dura para sempre. Louvado seja o Senhor!"}}$
