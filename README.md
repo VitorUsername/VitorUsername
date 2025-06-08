@@ -1,24 +1,80 @@
+# Konichiwa 👋
 
- <a href="https://tryhackme.com/p/vitorsiegergrafi">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/vitorsiegergrafi.png" alt="Seu emblema de imagem" />
- </a>
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="/assets/15682.gif">
+</div>
 
-### 🛠 Technical Skill & Languages & Tools:
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+</br>
+</br>
+</br>
 
 
-### ⚙️ GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorUsername&show_icons=true&theme=dark)
+# About ME 💬 :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorUsername&layout=compact&theme=transparent)
+### - 💻 I'm a 21-year-old programming enthusiast from Brazil, passionate about learning and growing through code. I'm always eager to contribute to open source projects and collaborate with the developer community.
+
+<img hight="400" width="500" alt="GIF" align="right" src="/assets/1936.gif">
+
+### - Learning :
+- ✨ Java
+
+
+### - Hobbies : 
+- ✨ Blender
+- ✨ Game Dev
+- ✨ Watching Anime -- ONE PUNCH
+
+
+</br>
+</br>
+</br>
 
 
 
-$\textit{\color{cyan}{ "Louvem o Senhor todas as nações; louvem-no todos os povos. Pois grande é o seu amor por nós;}}$
-$\textit{\color{cyan}{a fidelidade do Senhor dura para sempre. Louvado seja o Senhor!"}}$
+# Languages & Tools 👨‍💻 🛠:
+</br>
 
-$\textit{\color{cyan}{Salmos 117:1-2 }}$
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="/assets/icons/java.png" alt="java" width="100" hight="50">
+<img src="/assets/icons/bash.png" alt="bash" width="105" hight="50">
+<img src="/assets/icons/reddit.png" alt="visualstudio_code" width="120" hight="50">
+<img src="/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+
+<img src="/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+
+
+</br>
+</p>
+</br>
+</br>
+</br>
+
+
+
+# Contact Me :
+
+<p>
+ </br>
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ferreira-001053368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+
+
+
+<p align="center">  
+  <a href="https://github.com/VitorUsername/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=VitorUsername&show_icons=true&theme=radical"/>
+  </a>
+</p>
+  
+
+*************
