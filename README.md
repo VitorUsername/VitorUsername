@@ -61,8 +61,7 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ferreira-001053368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="/assets/icons/linkedin.png" />
+
 </br>
 </br>
 </br>
